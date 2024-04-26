@@ -6,23 +6,23 @@ Source C project with examples for sqlite database using.
 
 # Usage
 
-Use `gcc` and `sqlite3` to build project.
+Use `make`,`Makefile` and `sqlite3` to build project.
 
 # Building
 
 Use follow command
 
 ```
-gcc -o {binary file} {c source file} -l sqlite3
+make
 ```
 
 # Additiongal Notes
 
-The repository with some `C` sourcefiles.
+The repository with  `C` source files and Makefile.
 
 # Author
 
 
 //введите вашу фамилию и имя
-// Добавить ПУБЛИЧНУЮ ссылку на отчет Отчет по лабораторной работе 4
+// Добавить ПУБЛИЧНУЮ ссылку на отчет Отчет по лабораторной работе 5
 {ФИО студента}
